@@ -1,0 +1,66 @@
+html{
+    background-image: url(https://assets.billboardphilippines.com/wp-content/uploads/2026/01/hev-abi-ftr-5-1600x838.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+
+header{
+    font-size: 75px;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    border-style:groove;   
+}
+
+p{
+    color: aliceblue;
+    border-style: groove;
+    font-style: italic;
+    width: 500px;
+    height: 1050px;
+    font-size:25px;
+    margin-top: 0%;
+    margin-left: 140px;
+    text-align: justify;
+
+}
+
+.img{
+    margin-left: 12px;
+    margin-top: 1%;
+    
+}
+img{
+    padding: 5px;             
+    width: 450px;            
+    height: auto;
+}
+
+h1{
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    margin-left: 500px;
+}
+
+.p2{
+    margin-left: 900px;
+    width: 800px;
+    height: 1050px;
+    margin-left: 650px;
+    color: aliceblue;
+    position: absolute;
+}
+
+footer{
+    text-align: center;
+    border-style: groove;
+
+}
+
+
+
+
+
+
